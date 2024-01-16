@@ -57,7 +57,23 @@ An efficient and scalable backend solution for e-commerce platforms, designed to
 - GitHub: git@github.com:Stas-Cell-Max/E-commerce-Back-End.git
 
 ## Credits
-- Acknowledgments to contributors, mentors, and resources that helped in the development of this project.
+Developing the Employee Tracker application was made possible with the help of various resources and communities. Gratefully for the knowledge shared by the following:
+
+Node.js Documentation: https://www.npmjs.com/package/dotenv
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
+
+MySQL2 NPM Package: https://www.npmjs.com/package/mysql2
+
+https://www.w3schools.com/sql/sql_join.asp
+
+https://sequelize.org/docs/v6/
+
+Stack Overflow: https://stackoverflow.com/questions/14014209/designing-a-database-for-an-e-commerce-store
+
+MDN Web Docs: For general web development knowledge and specific JavaScript syntax and methods. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://www.geeksforgeeks.org/nodejs/?ref=shm
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
