@@ -9,7 +9,7 @@ An efficient and scalable backend solution for e-commerce platforms, designed to
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
-- [Screenshots](#screenshots)
+- [Walkthrough Video](#walkthrough-video)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [Author](#author)
@@ -37,7 +37,7 @@ An efficient and scalable backend solution for e-commerce platforms, designed to
 5. Run schema and seed commands to set up the database.
 6. Start the server: `npm start`
 
-## Screenshots
+## Walkthrough Video
 *Screenshots of the project in action*
 
 ## Future Enhancements
