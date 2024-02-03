@@ -38,7 +38,19 @@ An efficient and scalable backend solution for e-commerce platforms, designed to
 6. Start the server: `npm start`
 
 ## Walkthrough Video
-*Screenshots of the project in action*
+The walkthrough video must show all of the technical acceptance criteria being met.
+
+The walkthrough video that demonstrate how to create the schema from the MySQL shell: https://drive.google.com/file/d/1EJN5KjTepY8Z9oyOVER-gQO_114_Iro-/view
+
+The walkthrough video that demonstrate how to seed the database from the command line: https://drive.google.com/file/d/12seQMJlyM1n-b_cWgBDzQRT9aQh0Sp-n/view
+
+The walkthrough video must demonstrate how to start the application’s server.
+
+The walkthrough video must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia Core.
+
+The walkthrough video must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
+
+The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
 
 ## Future Enhancements
 - Integration of user authentication and authorization.
@@ -46,7 +58,7 @@ An efficient and scalable backend solution for e-commerce platforms, designed to
 - Enhancing API security with rate limiters and data validation.
 
 ## Contributing
-- Contributions to Employee Tracker are welcome! If you have suggestions for improvement or bug fixes, please open an issue or submit a pull request. Ensure your code adheres to the existing style for consistency. Thank you for your interest in enhancing this employee management tool.
+- Contributions to E-commerce-Back-End are welcome! If you have suggestions for improvement or bug fixes, please open an issue or submit a pull request. Ensure your code adheres to the existing style for consistency. Thank you for your interest in enhancing this employee management tool.
 
 ## Author
 - Developed by Stanislav Morozan, a passionate developer committed to creating efficient and user-friendly software solutions.
