@@ -40,17 +40,12 @@ An efficient and scalable backend solution for e-commerce platforms, designed to
 ## Walkthrough Video
 The walkthrough video must show all of the technical acceptance criteria being met.
 
-The walkthrough video that demonstrate how to create the schema from the MySQL shell: https://drive.google.com/file/d/1EJN5KjTepY8Z9oyOVER-gQO_114_Iro-/view
+The walkthrough video that demonstrates how to create the schema from the MySQL shell: https://drive.google.com/file/d/1EJN5KjTepY8Z9oyOVER-gQO_114_Iro-/view
 
-The walkthrough video that demonstrate how to seed the database from the command line: https://drive.google.com/file/d/12seQMJlyM1n-b_cWgBDzQRT9aQh0Sp-n/view
+The walkthrough video that demonstrates how to seed the database from the command line: https://drive.google.com/file/d/12seQMJlyM1n-b_cWgBDzQRT9aQh0Sp-n/view
 
-The walkthrough video must demonstrate how to start the application’s server.
-
-The walkthrough video must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia Core.
-
-The walkthrough video must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
-
-The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
+The walkthrough video that demonstrates how to start the application’s server, and then POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core: 
+https://drive.google.com/file/d/1vVn_u0NwxO0pWHnl56qlQ8P66zZQ_JZQ/view
 
 ## Future Enhancements
 - Integration of user authentication and authorization.
